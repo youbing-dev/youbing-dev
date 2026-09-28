@@ -5,7 +5,7 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=youbing-dev&style=flat-square&color=blueviolet" />
 </p>
 
-🎯 **Java 后端开发者**，长期深耕 toB 复杂业务系统的工程落地
+🎯 **Java 后端开发工程师**，在 toB 业务系统一线打磨工程能力，快速成长中
 
 - 🤖 业余时间投入 **AI Agent 全栈项目**：LangGraph 编排、RAG 检索增强、Tool Calling、多模态应用
 - 🧪 在个人项目中实践 Redis 高并发场景：缓存穿透 / 击穿 / 雪崩、秒杀、分布式锁
@@ -75,4 +75,4 @@ Hexo + Butterfly 搭建，记录 Java 后端与分布式系统的学习笔记和
 
 ---
 
-💬 想聊聊后端架构或 AI Agent 应用？欢迎通过[博客](https://youbing-dev.github.io)联系我
+💬 想交流后端技术或 AI Agent 应用？欢迎通过[博客](https://youbing-dev.github.io)联系我
