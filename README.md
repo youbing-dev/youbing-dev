@@ -5,10 +5,11 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=youbing-dev&style=flat-square&color=blueviolet" />
 </p>
 
-🎯 **Java 后端开发者**，专注高并发、高可用的服务端系统
+🎯 **Java 后端开发者**，长期深耕 toB 复杂业务系统的工程落地
 
-- 🤖 正在深入 **AI Agent 应用开发**：LangGraph 编排、RAG 检索增强、Tool Calling、多模态应用
-- 📝 在[个人博客](https://youbing-dev.github.io)分享微服务架构、性能优化与分布式系统的实战经验
+- 🤖 业余时间投入 **AI Agent 全栈项目**：LangGraph 编排、RAG 检索增强、Tool Calling、多模态应用
+- 🧪 在个人项目中实践 Redis 高并发场景：缓存穿透 / 击穿 / 雪崩、秒杀、分布式锁
+- 📝 在[个人博客](https://youbing-dev.github.io)记录后端学习笔记与踩坑复盘
 - 🌱 相信 Vibe Coding —— 把想法更快地变成能跑起来的产品
 
 ## 🛠️ 技术栈
