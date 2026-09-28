@@ -65,8 +65,14 @@ Hexo + Butterfly 搭建，记录 Java 后端与分布式系统的学习笔记和
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=youbing-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youbing-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/profile-summary?username=youbing-dev&theme=tokyonight" alt="Summary" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/repos-per-language?username=youbing-dev&theme=tokyonight" alt="Repos per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/most-commit-language?username=youbing-dev&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://stats.deeptrain.net/api?username=youbing-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="39%" src="https://stats.deeptrain.net/api/top-langs/?username=youbing-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
